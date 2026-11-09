@@ -1,6 +1,6 @@
 ### The challenge
 
-Design an EGFR binder with stronger binding at pH 6.5 than at pH 7.4.
+Design a binder for both human and mouse EGFR proteins, with stronger binding at pH 6.5 than at pH 7.4.
 
 ### My starting approach
 
