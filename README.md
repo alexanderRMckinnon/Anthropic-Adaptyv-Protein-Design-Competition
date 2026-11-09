@@ -1,4 +1,4 @@
-# My protein design notebook
+# Anthropic × Adaptyv Protein Design Competition
 
 A personal account of my submissions for weeks 1, 3 and 5 of the 2026 Anthropic × Adaptyv Protein Design Competition.
 

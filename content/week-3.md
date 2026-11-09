@@ -6,7 +6,7 @@ Design a protein that acts as an agonist of the GLP-1 receptor: it needs to supp
 
 I took a GLP-1-like approach, with extracellular anchoring and a head intended to reach into the receptor pocket. I explored how the head placement and supporting body behaved across different candidate designs and prediction contexts.
 
-The receptor view below gives some context for that arrangement. I’ll add the candidate comparisons and the reasoning behind my final selection here.
+I’ll add the candidate comparisons and the reasoning behind my final selection here.
 
 <!-- Continue in your own words.
 

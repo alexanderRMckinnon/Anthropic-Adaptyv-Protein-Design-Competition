@@ -6,7 +6,7 @@ Design a binder for both human and mouse EGFR proteins, with stronger binding at
 
 I explored candidate interfaces with proposed histidine–carboxylate contacts as a possible route to pH-dependent binding. My structural comparisons included human EGFR and mapped mouse EGFR contexts.
 
-The four designs below show different interface hypotheses. The structures give me a way to examine those ideas; the pH response itself remains a question for experimental testing.
+The structural comparisons give me a way to examine different interface hypotheses; the pH response itself remains a question for experimental testing.
 
 <!-- Continue the story here. These prompts are invisible on the website.
 

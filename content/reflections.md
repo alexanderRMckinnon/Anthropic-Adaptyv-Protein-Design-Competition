@@ -1,4 +1,4 @@
-I’m expanding this write-up with the methods, candidate comparisons and personal reflections from each challenge. Experimental findings will be added when they are available to me.
+I’m expanding this write-up with the methods, candidate comparisons and personal reflections from each challenge. Competition results and rankings will be added when they are available.
 
 <!-- Replace or expand this short note when you're ready.
 
